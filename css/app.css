@@ -219,7 +219,7 @@ body {
         flex-direction: row;
         position: static;
         padding: 25px 30px;
-        max-width: 50rem;
+        max-width: 75rem;
     }
     .card_title {
         text-align: left;
